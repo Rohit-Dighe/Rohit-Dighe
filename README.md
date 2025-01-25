@@ -20,3 +20,11 @@ I'm always learning new technologies and improving my skills. Feel free to explo
 - **IDEs**: Visual Studio Code, Android Studio
 - **Version Control**: Git, GitHub
 - **Tech Stack**: JavaScript, React, Apache Cordova
+
+- ## Rohit Dighe's GitHub Stats
+
+- **Total Stars Earned:** ![Total Stars](https://img.shields.io/github/stars/RohitDighe?style=social)
+- **Total PRs:** [Total PRs](https://github.com/RohitDighe?tab=pull-requests)
+- **Total Issues:** [Total Issues](https://github.com/RohitDighe?tab=issues)
+- **Contributed to (last year):** [Contributions](https://github.com/RohitDighe?tab=overview&from=2024-01-01&to=2024-12-31)
+
