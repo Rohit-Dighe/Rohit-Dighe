@@ -21,11 +21,8 @@ I'm always learning new technologies and improving my skills. Feel free to explo
 - **Version Control**: Git, GitHub
 - **Tech Stack**: JavaScript, React, Apache Cordova
 
-## Rohit Dighe's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitDighe&show_icons=true&hide_title=true&count_private=true&hide=prs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDighe&layout=compact&langs_count=6&hide=css,html&theme=radical)
 
-- **Total Stars Earned:** ![Total Stars](https://github-readme-stats.vercel.app/api/stars?username=RohitDighe&count_private=true)
-- **Total PRs:** ![Total PRs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDighe&layout=compact)
-- **Total Issues:** ![Total Issues](https://github-readme-stats.vercel.app/api/commit-activity?username=RohitDighe&count_private=true)
-- **Contributed to (last year):** ![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=RohitDighe)
 
 
