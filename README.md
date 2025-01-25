@@ -19,7 +19,7 @@ I'm always learning new technologies and improving my skills. Feel free to explo
 ### 🛠️ Tools I Use:
 - **IDEs**: Visual Studio Code, Android Studio
 - **Version Control**: Git, GitHub
-- **Tech Stack**: JavaScript, React, Apache Cordova
+- **Tech Stack**: JavaScript, React, Apache Cordova   
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitDighe&show_icons=true&count_private=true&hide_title=true&hide=prs,issues)  
 
