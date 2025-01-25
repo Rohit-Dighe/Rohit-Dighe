@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rohit Dighe
 
-Welcome to my GitHub profile! I'm a software engineer passionate about web and mobile development.
+Welcome to my GitHub profile! I'm  passionate about web and mobile development.
 
 ## Languages & Technologies I Use:
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
