@@ -21,8 +21,9 @@ I'm always learning new technologies and improving my skills. Feel free to explo
 - **Version Control**: Git, GitHub
 - **Tech Stack**: JavaScript, React, Apache Cordova
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitDighe&show_icons=true&hide_title=true&count_private=true&hide=prs,issues)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDighe&layout=compact&langs_count=6&hide=css,html&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitDighe&show_icons=true&count_private=true&hide_title=true&hide=prs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDighe&layout=compact&langs_count=6&theme=radical)
+
 
 
 
